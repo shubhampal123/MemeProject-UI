@@ -1,0 +1,8 @@
+Image with like, title [Done]
+Button for Upload [Done]
+Button for SignUp,Login [Done]
+Avatar for UserId with [not needed as per the figma design]
+Trending Page 
+Recommendation Page
+Website Logo 
+
