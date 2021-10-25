@@ -1,3 +1,6 @@
+body {
+  background: rgb(40, 40, 40);
+}
 .App {
   font-family: sans-serif;
   text-align: center;
