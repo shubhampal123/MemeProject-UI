@@ -1,0 +1,27 @@
+Image with like, title [Done]
+Button for Upload [Done]
+Button for SignUp,Login [Done]
+Avatar for UserId with [not needed as per the figma design]
+Trending Page 
+Recommendation Page
+Website Logo 
+
+autoplay only when you reach there. [Done]
+Is gif working? [Yes]
+
+Snackbar if login failed (edge case of token)
+Change button colors (secondary)
+Username formatting
+Meme title formatting
+Save the token in the browser
+Remove all the unrequired imports 
+Remove all the unrequired comments
+
+Update the data model to the current
+Check in the doc if anything left
+Save the links of doc, dev doc, arch diag, data model in the github readme
+
+
+
+
+

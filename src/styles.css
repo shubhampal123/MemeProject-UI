@@ -1,0 +1,29 @@
+body {
+  background: rgb(40, 40, 40);
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.hello {
+  align-items: center;
+}
+.trendingPage,
+.recommendationPage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+/* .signUp {
+  align-items: right;
+} */
+
+.headerButtons {
+  display: flex;
+}
+.headerTitle {
+}
